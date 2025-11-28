@@ -26,7 +26,7 @@ void setup() {
   display.setCursor(0, 0);
 
   display.println("Hello");
-  display.println("World!");
+  display.println("Swayam!");
 
   display.display();
 }
